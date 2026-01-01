@@ -1,7 +1,7 @@
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"> I'm Emad Mostafa 
 
 <!-- Typing SVG — monospaced, techy font, neon-blue pulse -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=React+Frontend+Dev;UI+Designer+%F0%9F%8E%A8;CCNA+Networking+%F0%9F%8C%90;Math+%26+CS+Graduate+%F0%9F%8E%93" alt="Typing SVG" />
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=React+Frontend+Dev;UI+Designer+%F0%9F%8E%A8;CCNA+Networking+%F0%9F%8C%90;Math+%26+CS+Graduate+%F0%9F%8E%93" alt="Typing SVG" />
 
 
 <p align="center">
@@ -17,7 +17,7 @@ Currently exploring cybersecurity and data-aware development, one step at a time
 - ⚛️ **Front-End Developer** — React, HTML, CSS, JavaScript, Tailwind, Bootstrap  
 - 🎨 **UI/UX Designer** — Figma, Design Systems, Accessibility  
 - 🐍 **Back-End & Data** — Python, Django, Supabase, Machine Learning (Predictive Modeling)  
-- 🛡️ **Cybersecurity Explorer** — Solid foundational knowledge in networking (CCNA) and security fundamentals  
+- 🛡️ **Cybersecurity Explorer** — Solid foundational knowledge in networking (CCNA) and core security principles.  
 - 🎓 **BSc Graduate** in Computer Science & Mathematics 
 <!-- - ✅ **Open to** Freelance • Internships • Collaborations -->
 
@@ -155,7 +155,7 @@ Feel free to reach out if you’d like to work together or just say hello!
   <a href="mailto:emad">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="www.linkedin.com/in/emadmostafa-">
+  <a href="https://www.linkedin.com/in/emadmostafa-">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/EmadLixup">
